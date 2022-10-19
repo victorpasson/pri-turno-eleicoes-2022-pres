@@ -14,7 +14,3 @@
 <p style="text-align: justify">Dessa forma, nesse projeto, buscamos entender se existem diferenças econômicas e sociais claras entre os municípios onde o candidato Luiz Inácio Lula da Silva obteve grande maioria dos votos e entre os municípios que o candidato Jair Messias Bolsonaro levou a melhor.</p>
 <p style="text-align: justify">Posto isso, é importante ressaltar que os percentuais de votos dos outros candidatos foram desconsiderados pois, como posto, a eleição desse ano foi marcada pela polarização entre os dois candidatos de forma nacional, não tendo aparecido outras opções com forças suficiente fazer frente a ambos os candidatos e estando esses nas duas primeiras posições em todos os municípios.</p>
 </div>
-=======
-# Dados da Eleição Nacional de 2022
-Repositório Criado para os dados das eleições nacionais e municipais no ano de 2022.
->>>>>>> 36e3ba5355018cf7620d68b6360746d907568a48
