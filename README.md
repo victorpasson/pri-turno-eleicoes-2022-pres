@@ -4,9 +4,9 @@
 <br>
 
 <p style="text-align: justify">As eleições presidenciais de 2022 está marcada pela polarização entre os candidatos Bolsonaro e Lula, polarização tamanha que afetou as eleições para deputados e senadores. Um exemplo disso é a disputa pelo governo de São Paulo, onde os candidatos de ambos os presidenciáveis passaram para o segundo turno sendo considerado um feito histórico, pois o partido que governou o estado por quase 30 anos, PSDB, não conseguiu passar para a segunda fase do pleito.</p>
-
-<img style="text-align: center" src="https://www.jornalopcao.com.br/wp-content/uploads/2022/09/lula-e-bolsonaro-30092021120156661-620x338.jpeg">
-
+<p style="text-align: justify">
+<img src="https://www.jornalopcao.com.br/wp-content/uploads/2022/09/lula-e-bolsonaro-30092021120156661-620x338.jpeg">
+</p>
 <br>
 <div style="text-align: justify">
 <p style="text-align: justify">Do ponto de vista nacional, no primeiro turno, foi possível verificar a diferença de votação entre os candidatos nas diferentes regiões do país. O candidato do PT, Luiz Inácio Lula da Silva, obteve uma diferença expressiva na região nordeste, região onde seu partido possui um histórico de vitórias. Do lado do atual presidente, Jair Messias Bolsonaro, uma diferença significativa foi verificada na região Centro-Oeste que é marcada pela presença do Agronegócio.</p>
