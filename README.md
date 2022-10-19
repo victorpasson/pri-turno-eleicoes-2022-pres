@@ -5,7 +5,7 @@
 
 <p style="text-align: justify">As eleições presidenciais de 2022 está marcada pela polarização entre os candidatos Bolsonaro e Lula, polarização tamanha que afetou as eleições para deputados e senadores. Um exemplo disso é a disputa pelo governo de São Paulo, onde os candidatos de ambos os presidenciáveis passaram para o segundo turno sendo considerado um feito histórico, pois o partido que governou o estado por quase 30 anos, PSDB, não conseguiu passar para a segunda fase do pleito.</p>
 
-<img src="https://www.jornalopcao.com.br/wp-content/uploads/2022/09/lula-e-bolsonaro-30092021120156661-620x338.jpeg">
+<img style="text-align: center" src="https://www.jornalopcao.com.br/wp-content/uploads/2022/09/lula-e-bolsonaro-30092021120156661-620x338.jpeg">
 
 <br>
 <div style="text-align: justify">
